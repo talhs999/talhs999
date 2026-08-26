@@ -67,15 +67,9 @@ I'm a **full-stack developer and designer** who blends creative thinking with te
 
 <div align="center">
   <img height="165" src="https://github.com/talhs999/talhs999/blob/main/skills%20(1).svg" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talhs999&theme=dark&hide_border=true&layout=compact" />
-</div>
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=talhs999&theme=dark&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=talhs999&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://github.com/talhs999/talhs999/blob/main/skills.svg" />
 </div>
 
 ---

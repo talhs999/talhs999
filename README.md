@@ -1,18 +1,116 @@
-# 💫 About Me:
-🚀 About Me<br><br>🛰️ I’m currently working on<br>Graphic designing, digital marketing campaigns, WordPress websites, eCommerce solutions, and cybersecurity-related practices.<br><br>🤝 I’m looking to collaborate on<br>Creative design projects, digital marketing strategies, secure web applications, SaaS products, and AI-powered platforms.<br><br>🧠 I’m looking for help with<br>Advanced cybersecurity implementations, ethical hacking techniques, Agentic AI systems, and scalable SaaS security.<br><br>🌱 I’m currently learning<br>Cyber security, ethical hacking fundamentals, Agentic & Robotic AI Engineering, advanced Python, and AI integrations.<br><br>💬 Ask me about<br>Graphic design, branding, digital marketing, social media ads, WordPress, UI/UX, eCommerce, cyber security basics, and freelancing.<br><br>⚡ Fun fact<br>I mix creativity (design & marketing) with logic (development & security) to build powerful and secure digital products 🔥
+<div align="center">
+  <img src="https://api.dicebear.com/9.x/initials/svg?seed=Talha%20Khan&backgroundColor=161b22&textColor=ffffff" alt="Muhammad Talha Khan" width="180" style="border-radius:50%;" />
 
+  <br /><br />
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Talha Khan) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Talha Khan) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/talha._007) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Muhammad Talha Khan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:talhaxyz0@gmail.com) 
+  # Muhammad Talha Khan
 
-# 💻 Tech Stack:
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white) ![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Affinity Photo](https://img.shields.io/badge/affinityphoto-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=talhs999&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=talhs999&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=talhs999&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  <div align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&height=36&lines=Complete+Full-Stack+Developer;Agentic+AI+%26+ML+Engineer;Senior+WordPress+Developer;Cybersecurity+Enthusiast;Digital+Marketing+%26+Creative+Design" alt="Typing Subtitle" />
+  </div>
+
+  ### 🚀 Building Secure Products, Shipping Smart Systems
+
+  **Full-Stack Developer • Agentic AI Engineer • Senior WordPress Developer**
+
+  <br />
+
+  <a href="https://www.linkedin.com/in/muhammad-talha-khan-104a36341/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=ffffff" height="28" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/talha._007" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-161b22?style=for-the-badge&logo=instagram&logoColor=ffffff" height="28" alt="Instagram"/>
+  </a>
+  &nbsp;
+  <a href="https://www.facebook.com/talha.khan.198321" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-161b22?style=for-the-badge&logo=facebook&logoColor=ffffff" height="28" alt="Facebook"/>
+  </a>
+  &nbsp;
+  <a href="mailto:talhaxyz0@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=gmail&logoColor=ffffff" height="28" alt="Email"/>
+  </a>
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=talhs999&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 👨‍💻 About Me
+
+I'm a **full-stack developer and designer** who blends creative thinking with technical execution — building secure, scalable digital products from the ground up.
+
+* 🛰️ **Currently:** Delivering **WordPress, Shopify & Wix** websites, eCommerce stores, and digital marketing campaigns for clients.
+* 🧠 **AI Focus:** Diving into **Agentic AI systems, ML engineering, and AI integrations** — building intelligent, automated tools.
+* 🔐 **Security Side:** Learning **ethical hacking, cybersecurity fundamentals, and secure SaaS architecture**.
+* 🤝 **Collaboration:** Open to work on **secure web apps, SaaS products, AI-powered platforms, and creative branding projects**.
+
+---
+
+### 🛠️ Core Tooling & Technologies
+
+<div align="center">
+
+| **Category** | **Technologies** |
+| :--- | :--- |
+| **Web Development** | <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css,tailwind,bootstrap&theme=dark" /> |
+| **Backend & Databases** | <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,mysql,firebase&theme=dark" /> |
+| **AI & ML** | <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn&theme=dark" /> |
+| **Cloud & Data Engineering** | <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,postgres,mongodb,redis&theme=dark" /> |
+| **CMS & eCommerce** | <img src="https://skillicons.dev/icons?i=wordpress&theme=dark" /> WooCommerce · Shopify · Wix · Elementor |
+| **Digital Marketing** | <img src="https://img.shields.io/badge/Meta-0866FF?style=flat-square&logo=meta&logoColor=white" /> <img src="https://img.shields.io/badge/Facebook%20Ads-1877F2?style=flat-square&logo=facebook&logoColor=white" /> <img src="https://img.shields.io/badge/Google%20Ads-4285F4?style=flat-square&logo=googleads&logoColor=white" /> <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=flat-square&logo=googleanalytics&logoColor=white" /> <img src="https://img.shields.io/badge/SEO-34A853?style=flat-square&logo=semrush&logoColor=white" /> |
+| **Design Tools** | <img src="https://skillicons.dev/icons?i=ps,ai,figma,xd&theme=dark" /> Canva · InDesign · Lightroom |
+| **Platforms & DevOps** | <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,githubactions,vscode&theme=dark" /> |
+
+</div>
+
+---
+
+### 📈 GitHub Stats & Activity
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=talhs999&theme=dark&hide_border=true&include_all_commits=false&count_private=false" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talhs999&theme=dark&hide_border=true&layout=compact" />
+</div>
+
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=talhs999&theme=dark&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=talhs999&theme=react-dark&hide_border=true&area=true" />
+</div>
+
+---
+
+### 🏆 Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=talhs999&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&row=1" />
+</div>
+
+---
+
+### 📌 Featured Projects
+
+* **[INSIGHTAGENT](https://github.com/talhs999/INSIGHTAGENT)** — An AI-powered insights/agent web app built with Next.js. [🔗 Live Demo](https://insightagent-xi.vercel.app)
+* **[AI Spam Email Checker](https://github.com/talhs999/Cyber-Security-project-_-Ai-spam-email-checker)** — A cybersecurity project using machine learning to detect and flag spam/phishing emails.
+* **[Full-Stack Intern Assignment](https://github.com/talhs999/Full-Stack-Intern-Assignment)** — A full-stack web application covering both front-end and back-end development.
+
+---
+
+### 🎯 Beyond the Code
+
+* **🎨 Creative Side:** Designing brand identities and social media ad creatives for clients.
+* **📈 Growth Mindset:** Constantly upgrading skills across AI, security, and full-stack development.
+* **🤖 Philosophy:** Believe in combining creativity with logic to build products that are both beautiful and secure.
+
+---
+
+<div align="center">
+  <sub>Let's build something incredible together. 🚀</sub>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=talhs999&icon=0&color=0" /></a>
+</div>

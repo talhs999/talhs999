@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="https://api.dicebear.com/9.x/initials/svg?seed=Talha%20Khan&backgroundColor=161b22&textColor=ffffff" alt="Muhammad Talha Khan" width="180" style="border-radius:50%;" />
-
-  <br /><br />
+  <img src="https://github.com/talhs999/talhs999/blob/main/portrait%20(1).svg" width="180" style="border-radius:50%;" />
+  <br />
 
   # Muhammad Talha Khan
 
@@ -67,7 +66,7 @@ I'm a **full-stack developer and designer** who blends creative thinking with te
 ### 📈 GitHub Stats & Activity
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=talhs999&theme=dark&hide_border=true&include_all_commits=false&count_private=false" />
+  <img height="165" src="https://github.com/talhs999/talhs999/blob/main/skills%20(1).svg" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talhs999&theme=dark&hide_border=true&layout=compact" />
 </div>
 
